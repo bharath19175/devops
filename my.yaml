@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
-metiadata:
-  iname: mvn
+metadata:
+  name: mvn
 spec:
   containers:
     - name: mvn
